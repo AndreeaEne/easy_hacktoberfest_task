@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Captură de ecran</string>
+    <string name="notify_record">Înregistrează</string>
+    <string name="notify_stop">Stop</string>
+    <string name="start_snap_screenshot">Pornește caputura de ecran</string>
+    <string name="snap_screenshot_running">Captura de ecran rulează</string>
+    <string name="camera_icon">Pictogramă cameră</string>
+    <string name="start_snap_saver">Pornește Snap Saver</string>
+    <string name="stop_snap_screenshot">Dă click aici pentru a opri captura de ecran</string>
+    <string name="remove_ads">Obține versiunea Pro</string>
+    <string name="rate_app">Evaluează aplicația</string>
+    <string name="share_app">Distribuie aplicația</string>
+    <string name="feedback">Feedback</string>
+    <string name="open_screenshots">Deschide lista capturilor de ecran</string>
+    <string name="become_a_pro_user">Devino utilizator Pro</string>
+    <string name="already_pro_version">Mulțumim pentru achiziționarea versiunii Pro. Distracție plăcută!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Pictogramă transversală</string>
+    <string name="get_pro_version">Obține versiunea Pro</string>
+    <string name="desc">Această aplicație permite utilizatorilor să facă capturi de ecran pe Snapchat, fără a fi detectați, fără root.</string>
+
+</resources>
